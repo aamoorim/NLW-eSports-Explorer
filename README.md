@@ -17,6 +17,6 @@ Projeto elaborado durante o evento Next Level Week da empresa Rocketseat.
 ## 🌸 Contato
 **Email:** amorimmariana007@gmail.com 
 
-**Whatsapp:** +55 85 987334759
+**Whatsapp:** +55 85 989273173
 
-**Discord:**  agente zero#7252
+**Discord:**  aamoorim
