@@ -6,7 +6,7 @@ Projeto elaborado durante o evento Next Level Week da empresa Rocketseat.
 
 ![preview](./.github/preview.png)
 
-🔗[Clique aqui para acessar](https://agentnayu.github.io/NLW-eSports-Explorer/)
+🔗[Clique aqui para acessar](https://670f0ea85c232c9833ee5e5d--amoranlwesports.netlify.app)
 
 ## 🛠️ Tecnologias
 
